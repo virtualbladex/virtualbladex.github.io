@@ -1,7 +1,7 @@
 ---
 layout: post
 title: KAHRAMAA wins best mobile app in Gulf region award
-subtitle: There's lots to learn!
+subtitle: New interface guarantees a smooth and practical experience for consumers!
 tags: [ios, mobile-app-awards, kahramaa, gcc, multilingual]
 comments: true
 mathjax: true
@@ -15,4 +15,4 @@ In 2022, KAHRAMAA had launched an updated version of its mobile application with
 
 The electricity and water sector - which is managed by KAHRAMAA - is one of the central service sectors that affect the development and growth of society.
 
-[Read More] (https://thepeninsulaqatar.com/article/27/02/2023/kahramaa-wins-best-mobile-app-in-gulf-region-award)
+[Read More](https://thepeninsulaqatar.com/article/27/02/2023/kahramaa-wins-best-mobile-app-in-gulf-region-award)
