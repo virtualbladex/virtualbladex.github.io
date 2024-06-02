@@ -6,21 +6,30 @@ subtitle: Lead Mobile App Developer @ Kahramaa, Qatar • Winner of multiple int
 
 My name is Vishnu Unni. Here's a brief about myself:
 
-- I currently live with my family in Qatar
-- I'm highly passionate Technology, Robotics & Software
+- I currently live with my family in Doha, Qatar.
+- I'm highly passionate about Technology, Robotics & Software.
 - I have worked on high performance backend applications in Java.
 
+---
 
-### My story
+## About Me
 
-I have been keen to technology since my child hood. Used to take apart and learn from gadgets & toys. I had a hobby website during the Java & Symbion time, fully managed using my Java mobile device (Sony Ericsson K510i). The wap - website used to provide items such as ring tones, wallpapers and apps for download.
+From a young age, I have been deeply passionate about technology. As a child, I would take apart gadgets and toys to understand their inner workings. During the Java and Symbian era, I managed a hobby website using my Sony Ericsson K510i Java mobile device. This WAP site provided downloads for ringtones, wallpapers, and apps.
 
-I bought my first Android device running Android 2.1 Eclair during my college time. I started my mobile app development with it. Have done many kernal tweaks, custom ROM flashing, OS patching, even found a way to make the single touch screen device to act like multi touch.
+My journey into mobile app development began in college when I purchased my first Android device running Android 2.1 Eclair. I explored kernel tweaks, custom ROM flashing, OS patching, and even managed to enable a single-touch screen to function as a multi-touch screen.
 
-During my 3rd and 4th year of college I helped my friends by creating 5 Android apps for their electronics & civil projects. Mostly IoT based.
+In my third and fourth years of college, I assisted my friends by developing five Android apps for their electronics and civil engineering projects, primarily focusing on IoT solutions.
 
-After collage I joined NeST IT and have got a lot of on-the-job training on professional software development. 
+After graduating, I joined NeST IT, where I received extensive on-the-job training in professional software development. My experience spans front-end web development with JavaScript, back-end development with Java, and creating standalone geospatial computing Python scripts that leverage the full potential of computer hardware through parallel processing. Eventually, I dedicated myself fully to iOS development.
 
-Worked on front end webdevelopment using Javascript, Backend development using Java, 
-have created standalone geo spatial computing python scripts by leverating full potential of computer hardware using parallel processing. Then I got fully dedicated to iOS development.
+I was fortunate to lead the initial team in starting Swift-based iOS app development. I presented the advantages of using the Swift programming language and Apple's standards. We developed multiple iPad and iOS apps for different clients and some innovative proof-of-concepts (POCs).
 
+As part of an onsite deployment from NeST IT, I joined Kahramaa as the Lead iOS Developer. Our team worked on enhancing the code quality and work environment of iOS and mobile projects, creating new applications and setting up an MDM enterprise deployment system. One such MDM-based enterprise application, the "Employees" App, won the Best E-Employment Award at an international competition (WSIS).
+
+I led a 10-member team of mobile developers in UI/UX, architecture, and development of native iOS and Android apps for the main app store app, the "Kahramaa" App. Our hard work paid off as we won the Best Mobile Application Award in the Gulf region in 2023.
+
+I am currently leading the mobile development efforts at Qatar General Electricity and Water Corporation (KAHRAMAA).
+
+
+
+---
