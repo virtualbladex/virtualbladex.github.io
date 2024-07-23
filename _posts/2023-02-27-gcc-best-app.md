@@ -3,13 +3,13 @@ layout: post
 title: KAHRAMAA wins best mobile app in Gulf region award
 subtitle: New interface guarantees a smooth and practical experience for consumers!
 tags: [ios, mobile-app-awards, kahramaa, gcc, multilingual]
+thumbnail-img: /assets/img/thumb.png
 comments: true
 mathjax: true
 author: The Peninsula Qatar
 ---
-
 {: .box-success}
-Qatar General Electricity and Water Corp (KAHRAMAA) won the best smartphone application in the Gulf region award. 
+Qatar General Electricity and Water Corp (KAHRAMAA) won the best smartphone application in the Gulf region award.
 
 In 2022, KAHRAMAA had launched an updated version of its mobile application with a new interface, which guarantees a smooth and practical experience for subscribers, allowing them to request services at any time and from anywhere by following easy steps supported by modern designs that are in line with international standards for the best smartphone applications. A chatbot feature has also been added to interact with subscribers to improve their experience.
 
