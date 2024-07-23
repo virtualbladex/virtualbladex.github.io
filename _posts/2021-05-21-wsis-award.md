@@ -2,8 +2,9 @@
 layout: post
 title: Kahramaa employee app bags international award
 subtitle: The app includes over 30 digital services
-cover-img: /assets/img/path.jpg
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/employees-app.png
+share-img: /assets/img/employees-app.png
+thumbnail-img: /assets/img/employees-app.png
 tags: [employee-app, kahramaa, HR, wsis, kahramaa, enterprise, mdm, byod, ui/ux]
 author: The Peninsula Qatar
 ---
